@@ -15,7 +15,7 @@ To train new classification problem you can simply add newtopic.py under BackEnd
 To predict any topic simply follow the template BackEnd/predict/
 
 ### FrontEnd folder
-To run FrontEnd, streamlit run FrontEnd/app.py
+To run FrontEnd, execute streamlit run FrontEnd/app.py
 
 Please find the screenshots below for FrontEnd
 
