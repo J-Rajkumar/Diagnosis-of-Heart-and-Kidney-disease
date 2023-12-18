@@ -8,7 +8,7 @@
 This project has two folders namely BackEnd and FrontEnd.   
 Used python for BackEnd and Streamlit for FrontEnd
 
-###BackEnd folder
+### BackEnd folder
 This is code is built in a scalable way so that we can add multiple project and use common code
 To train new classification problem you can simply add newtopic.py under BackEnd/train and corresponding resource under BackEnd/resource/topics/newtopic
 
