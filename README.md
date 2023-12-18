@@ -1,4 +1,4 @@
-[model_compare.csv](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/files/13700904/model_compare.csv)# Diagnosis-of-Heart-and-Kidney-disease
+# Diagnosis-of-Heart-and-Kidney-disease
 
 ## Data set source link:
 ### Heart : https://archive.ics.uci.edu/dataset/45/heart+disease
