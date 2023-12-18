@@ -20,6 +20,7 @@ Example: loading csv, loading object, columnformat, feature encoding, model metr
 #### Input Folder:
 Both for training and prediction input files are located under corresponding names under topics folder
 Example: Kidney train and test input files are located in the following path
+
 train      -->  BackEnd/resource/topics/kidney/input/train/kidney.csv
 
 prediction -->  BackEnd/resource/topics/kidney/input/predict/test1.csv
