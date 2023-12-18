@@ -34,10 +34,14 @@ Please find the screenshots below for FrontEnd
 
 ![heartscreen2](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/c3f41a36-6d6e-4820-9e3e-bbc8a6f4aded)
 
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/79a0be1f-b1bb-4027-9351-6a3eb57683b0)
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/cf05a10f-c8b3-4788-b967-e22578a60d4a)
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/cd6ff51d-d61c-448b-b206-0b4f505df232)
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/486fcb37-aea9-42ff-92b3-4e33d1b4db06)
 
-![kidneyscreen1](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/68d9bb53-77fe-41e9-b926-78b017fee99b)
 
-![kidneyscreen2](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/343e8037-79d5-4929-8495-27bc74dfd5b1)
+
+
 
 
 
