@@ -4,15 +4,34 @@
 ### Heart : https://archive.ics.uci.edu/dataset/45/heart+disease
 ### kidney: https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
 
+## Both the topics are binary classification type
+
 ## Folder structure
 This project has two folders namely BackEnd and FrontEnd.   
 Used python for BackEnd and Streamlit for FrontEnd
 
 ### BackEnd folder
-This is code is built in a scalable way so that we can add multiple project and use common code
+This code is built in a scalable way so that we can add multiple project and use common code
 To train new classification problem you can simply add newtopic.py under BackEnd/train and corresponding resource under BackEnd/resource/topics/newtopic
 
+#### Common packages and steps are located under resource folder as python file
+Example: loading csv, loading object, columnformat, feature encoding, model metrics, ml and neural network and hyperparameter tuning.
+
+#### Input Folder:
+Both for training and prediction input files are located under corresponding names under topics folder
+Example: Kidney train and test input files are located in the following path
+train      -->  BackEnd/resource/topics/kidney/input/train/kidney.csv
+
+prediction -->  BackEnd/resource/topics/kidney/input/predict/test1.csv
+
+
+#### Training
+To train any topic simply follow the template located in the following loaction: BackEnd\train
+Example: To train kidney dataset, execute following command: python BackEnd\train\kidney.py
+
+#### Prediction 
 To predict any topic simply follow the template BackEnd/predict/
+Example: To predict kidney normal/abnormal status, execute following command: python BackEnd\predict\kidney.py
 
 ### Model performance metrics comparision for heart
 
