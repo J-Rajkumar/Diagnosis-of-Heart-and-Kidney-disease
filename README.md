@@ -34,6 +34,12 @@ Example: To train kidney dataset, execute following command: python BackEnd\trai
 To predict any topic simply follow the template BackEnd/predict/
 Example: To predict kidney normal/abnormal status, execute following command: python BackEnd\predict\kidney.py
 
+#### Feature Importance
+
+![newplot(1)](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/d1296a5d-37b1-449e-a0d5-483cf66efe6a)
+
+
+
 ### Model performance metrics comparision for heart
 
 ![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/226b3da2-7b8c-43a3-84f2-8720d66ef394)
