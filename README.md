@@ -56,9 +56,17 @@ To run FrontEnd, execute streamlit run FrontEnd/app.py
 
 Please find the screenshots below for FrontEnd
 
-![heartscreen1](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/dfaf8961-24c5-4fe1-9234-ab1ec95e2e4b)
+###### key feature: App Navigation option
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/eb4db8e7-99dc-4afb-af05-2dfda5cedad7)
 
-![heartscreen2](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/c3f41a36-6d6e-4820-9e3e-bbc8a6f4aded)
+### Heart
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/c51f56c6-ee76-41e7-b93f-315a6ce25dc1)
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/ee916739-95ec-45c7-9ef0-afd02ca2d5a7)
+![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/ff8d1830-72f0-4c42-abea-4bf404eaec16)
+
+
+
+### Kidney
 
 ![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/79a0be1f-b1bb-4027-9351-6a3eb57683b0)
 ![image](https://github.com/J-Rajkumar/Diagnosis-of-Heart-and-Kidney-disease/assets/151571679/cf05a10f-c8b3-4788-b967-e22578a60d4a)
